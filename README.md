@@ -1,4 +1,4 @@
 # gitcourse
 git course
-##IMPORTANT NOTES
+## IMPORTANT NOTES
 
